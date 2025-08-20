@@ -28,7 +28,7 @@ Para que XocoCaptur Pro funcione al 100%, solo necesitas dos cosas: la aplicaci�
 
 ### 1. Descargar XocoCaptur Pro
 
-Ve a la sección de **[Releases](URL_DE_TU_SECCION_DE_RELEASES_AQUI)** en este repositorio y descarga la última versión de `XocoCaptur.exe`.
+Ve a la sección de **[Releases]([URL_DE_TU_SECCION_DE_RELEASES_AQUI](https://drive.google.com/file/d/1fqKCb5BV8cesei2e2sIU-ASexF6K1K47/view?usp=sharing))** en este repositorio y descarga la última versión de `XocoCaptur.exe`.
 
 > **Nota:** Al ser un ejecutable no firmado, es posible que Windows muestre una advertencia de seguridad. Simplemente haz clic en "Más información" y luego en "Ejecutar de todas formas".
 
@@ -48,7 +48,7 @@ La interfaz es súper simple y está diseñada para ser intuitiva.
 
 ### La Ventana Principal
 
-![Botones de la Interfaz](URL_DE_IMAGEN_EXPLICANDO_BOTONES_AQUI)
+![Botones de la Interfaz](XocoCapture.jpg)
 
 *   **📝 Captura OCR:** Inicia una captura para reconocer texto.
 *   **📸 Captura de Pantalla:** Inicia una captura para obtener una imagen.
@@ -78,31 +78,48 @@ La interfaz es súper simple y está diseñada para ser intuitiva.
 
 ---
 
-## 🔧 Para Desarrolladores (Construir desde el código fuente)
+## Instalación y Ejecución
+ Descarga el ejecutable desde el siguiente enlace:
+   [Descargar Clipboard Manager](https://drive.google.com/file/d/1fqKCb5BV8cesei2e2sIU-ASexF6K1K47/view?usp=sharing)
+   
 
-Si quieres modificar el código y compilar tu propia versión, sigue estos pasos:
 
-1.  Clona el repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
-2.  Crea y activa un entorno virtual:
-    ```bash
-    python -m venv venv
-    .\venv\Scripts\activate
-    ```
-3.  Instala las dependencias:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  Para ejecutar la aplicación:
-    ```bash
-    python xococaptur.py
-    ```
-5.  Para construir el `.exe`:
-    ```bash
-    pyinstaller xococaptur.spec
-    ```
+
+
+## Capturas de pantalla instalación
+![Xocopop en acción](Descargar.JPG)
+![Xocopop en acción](Descargar1.JPG)
+![Xocopop en acción](Descarga3.JPG)
+
+## Contribuciones
+Las contribuciones son bienvenidas. Realiza un fork del repositorio y envía tus pull requests.
+
+
 
 ---
 
-## 📄 Licencia
+_Disfruta de Clipboard Manager y facilita tu flujo de trabajo con un portapapeles mejorado!_
 
-Este proyecto está distribuido bajo la Licencia MIT.
+
+## Descargo de Responsabilidad
+
+**Importante:** El uso de este código es bajo total responsabilidad del usuario. ** Xocostudio** no se hace responsable por ningún tipo de mal uso, daño directo o indirecto, pérdida de datos, o cualquier otro perjuicio que pueda derivarse del uso de este software.
+
+### Sin Garantías
+
+El software se proporciona "tal cual", sin garantías de ningún tipo, ya sean expresas o implícitas. Esto incluye, pero no se limita a, las garantías de comerciabilidad, adecuación para un propósito particular y no infracción.
+
+### Exención de Responsabilidad
+
+Los autores no son responsables por cualquier reclamación, daño u otra responsabilidad que surja del uso del software, ya sea en una acción de contrato, agravio o de otra manera, que surja de, fuera de o en conexión con el software o el uso u otros tratos en el software.
+
+### Uso del Código
+
+Al descargar y utilizar este código, aceptas hacerlo bajo tu propio riesgo. Es tu responsabilidad asegurarte de que el software es adecuado para tus necesidades y de tomar todas las precauciones necesarias para evitar posibles daños o pérdidas.
+
+
+
+Si tienes alguna pregunta o necesitas más información, por favor contacta a Xocostudio.
+
+---
+
