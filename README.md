@@ -4,7 +4,7 @@
 
 XocoCaptur Pro es una aplicación de escritorio minimalista diseñada para hacerte la vida más fácil. Captura cualquier parte de tu pantalla, extrae texto de imágenes al instante o lee códigos QR con un solo clic.
 
-![XocoCaptur Pro - Interfaz Principal](URL_DE_LA_IMAGEN_DE_TU_APP_AQUI)
+![XocoCaptur Pro - Interfaz Principal](XocoCaptur.JPG))
 
 ---
 
