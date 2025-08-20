@@ -48,7 +48,7 @@ La interfaz es súper simple y está diseñada para ser intuitiva.
 
 ### La Ventana Principal
 
-![Botones de la Interfaz](XocoCapture.jpg)
+![Botones de la Interfaz](XocoCaptur.jpg)
 
 *   **📝 Captura OCR:** Inicia una captura para reconocer texto.
 *   **📸 Captura de Pantalla:** Inicia una captura para obtener una imagen.
